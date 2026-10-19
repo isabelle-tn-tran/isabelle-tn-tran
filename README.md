@@ -17,9 +17,14 @@ I'm actively expanding my technical research skills through independent study an
 
 ### 🔬 Research Background
 
-- **UC Irvine:** Behavioral neuroscience and human-subjects research, including participant recruitment, informed consent, experimental protocols, and research data collection.
-- **TCU Burnett School of Medicine:** Medical science (MD track - 2 years) training with experience in clinical research, psychiatry, neuroanatomy, and interdisciplinary healthcare.
-- **Healthcare Operations:** Experience coordinating complex patient care, managing research-relevant documentation, and collaborating across clinical and operational teams.
+- **UC Irvine:** Behavioral neuroscience and human-subjects research, including experimental protocols, participant recruitment, informed consent, and research data collection.
+- **Cognoa:** Clinical research experience supporting a pivotal study of an AI-based diagnostic tool for autism spectrum disorder.
+- **TCU Burnett School of Medicine:** Scholarly research activities spanning psychiatry, adolescent mental health, and medical innovation.
+
+### 🎓 Education & Clinical Training
+
+- **University of California, Irvine:** B.A. in Psychology, with a minor in Hearing and Speech Sciences (2019).
+- **TCU Burnett School of Medicine:** Pursued an MD (2021–2024), completing preclinical medical education and clinical rotations in psychiatry, neurology, internal medicine, and other specialties. Earned a Master of Medical Science (MMS) in 2025.
 
 ### 💻 Technical Learning Portfolio
 
